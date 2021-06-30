@@ -1,7 +1,7 @@
 ---
-title:
-abbrev: logging
-docname:
+title: Daniel Tiger
+abbrev: daniel
+docname: draft-daniel-00
 category: info
 
 ipr: trust200902
@@ -23,33 +23,28 @@ pi:
 author:
 
 -
-       ins: F. Last
-       name: First Name
-       organization:
-       email:
+       ins: M. Knodel
+       name: Mallory Knodel
+       organization: CDT
+       email: mknodel@cdt.org
 
--
-       ins: F. Last
-       name: First Name
-       organization:
-       email:
 
 normative:
 
 informative: 
-   RFCXXXX:
+   RFC8280:
 
-   Title:
-     title: ""
-     date:
+   Title: c
+     title: "c"
+     date: 2015
      author:
+        - ins: c.
         - ins:
-        - ins:
-     target:
+     target: https://example.com
 
 --- abstract
 
-[abstract text here]
+Abstract text here.
 
 --- middle
 
